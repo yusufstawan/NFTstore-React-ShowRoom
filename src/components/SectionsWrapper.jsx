@@ -36,7 +36,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, revers
           >
             {description}
           </p>
-          {showBtn && <Button assetUrl={assets.expo} link="https://expo.dev/" />}
+          {showBtn && <Button assetUrl={assets.expo} link="https://drive.google.com/drive/folders/1aWlEo6ZCRUwJIqKh4WUcIys_fp9M2mZd?usp=sharing" />}
         </div>
         <div className={`flex-1 ${styles.flexCenter}p-8 sm:px-0`}>
           <img
